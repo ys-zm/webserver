@@ -1,4 +1,4 @@
-A simple HTTP webserver that mimicks nginx.
+A simple HTTP webserver that mimicks nginx, written in C++.
 
 ---
 
